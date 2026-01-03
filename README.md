@@ -9,7 +9,7 @@ A l'aide de mes compétences techniques en réseau et systèmes et programmation
 Je vais effectuer une reconnaissance active et passive du réseau pour obtenir un aperçu global de son architecture et de ses équipements au travers l'envoi de paquet d'apres les differente couche de reseau analysé.
 
 
-## Outils 1:
+## Outils 1: générateur d'adresse ip.
 
 ```
 uint32_t *gnr_range_ip(int network_type, const char *ip_start, const char *ip_end, uint32_t *size);
@@ -36,7 +36,7 @@ Un pointeur size est passé en argument et retourne la taille du reseau.
 */
 
 
-## Outils 2:
+## Outils 2: convertissseur decimal to hex (peu utile dans le cadre de la creation de header, mais interessant).
 
 
 ```
