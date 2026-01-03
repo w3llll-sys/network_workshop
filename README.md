@@ -36,7 +36,7 @@ Un pointeur size est passé en argument et retourne la taille du reseau.
 */
 
 
-## Outils 2: convertissseur decimal to hex (peu utile dans le cadre de la creation de header, mais interessant).
+## Outils 2: convertissseur decimal to hex (peu utile dans le cadre de la creation de header, mais intéressant à maitriser).
 
 
 ```
